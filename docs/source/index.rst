@@ -1,10 +1,13 @@
-Welcome to Lumache's documentation!
+design responsive webflow websites
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**I will provide the Webflow design service as I have mentioned in my Gig. but if you need any custom design that will take more work than the mentioned package then please contact me.**
+
+**Website Spec**
+
+I will discuss the features and design style you need. Mainly we will discuss the project, number of pages, analyze competitor's websites and go through some of the similar and inspirational websites.
+
+show case website : [파워볼사이트 추천커뮤니티](https://systemsacademy.io/)
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
